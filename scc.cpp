@@ -58,17 +58,18 @@ int main()
     {
         visited[i]=0;
     }
+    int           co=0;
     for(int i=0; i<path.size(); i++)
     {
 
         if(visited[path[i]]==0)
-        {
+        {    co++;
             numscc=path[i];
             dfs2(path[i]);
 
         }
     }
-    cout<<numscc<<endl; //number of strongly connected components
+    cout<<co<<endl; //number of strongly connected components
     for(int i=1; i<=n; i++)
     {
         for(int j=0; j<g[i].size(); j++)
