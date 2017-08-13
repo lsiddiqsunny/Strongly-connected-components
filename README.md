@@ -1,5 +1,7 @@
 ### Important Tutorials' link:
 ***
-  1. geeksforgeeks: http://www.geeksforgeeks.org/strongly-connected-components/
-  2. Hackerearth: https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/tutorial/
-  3. Youtube: https://www.youtube.com/watch?v=ju9Yk7OOEb8
+<ol  type="1">
+  <li> geeksforgeeks: http://www.geeksforgeeks.org/strongly-connected-components/</li>
+  <li>  Hackerearth: https://www.hackerearth.com/practice/algorithms/graphs/strongly-connected-components/tutorial/ </li>
+   <li>  Youtube: https://www.youtube.com/watch?v=ju9Yk7OOEb8 </li>
+</ol>
